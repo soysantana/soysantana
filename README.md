@@ -12,12 +12,7 @@
 -----
  
 
-```js
-```
-</details>
-<br/>
-</details> 
 
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
+Credits: [Santana](https://github.com/soysantana)
+Last Edited on: 05/08/2023
