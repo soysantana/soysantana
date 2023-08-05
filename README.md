@@ -30,10 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soysantana&show_icons=true&locale=en" alt="soysantana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soysantana&" alt="soysantana" /></p>
-
- 
-
-
------
-Credits: [Santana](https://github.com/soysantana)
-Last Edited on: 05/08/2023
