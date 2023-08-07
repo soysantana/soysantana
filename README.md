@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Arturo Santana</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">Soy un desarrollador freelance y también soy estudiante de Informatica en la Universidad Tecnologica Del Cibao Oriental.<a href="" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
