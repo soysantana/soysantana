@@ -9,7 +9,7 @@
 
 <div align="left">
   
-- ✨ Creating bugs since 2019
+- ✨ Creating bugs since 2020
 - 📚 I'm currently learning english  and docker 🐳
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
