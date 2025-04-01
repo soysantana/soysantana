@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Santana</h1>
-<h3 align="center">I'm a frontend developer and an informatics student at the Universidad Tecnológica del Cibao Oriental (Uteco)</h3>
+<h3 align="center">I'm a frontend developer and a software engineering student at the Universidad Tecnológica del Cibao Oriental (Uteco)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soysantana&label=Profile%20views&color=0e75b6&style=flat-square" alt="soysantana" /> </p>
 
