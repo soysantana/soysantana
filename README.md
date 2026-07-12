@@ -2,8 +2,6 @@
 <h3 align="center">I'm a frontend developer and a software engineering student at the Universidad Tecnológica del Cibao Oriental (Uteco)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soysantana&label=Profile%20views&color=0e75b6&style=flat-square" alt="soysantana" /> </p>
-[![committers.top badge](https://user-badge.committers.top/dominican_republic/soysantana.svg)](https://user-badge.committers.top/dominican_republic/soysantana)
-###
 
 <h2 align="left">About me</h2>
 
