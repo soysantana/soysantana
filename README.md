@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soysantana&label=Profile%20views&color=0e75b6&style=flat-square" alt="soysantana" /> </p>
 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/soysantana.svg)](https://user-badge.committers.top/dominican_republic/soysantana)
+
 <h2 align="left">About me</h2>
 
 <div align="left">
