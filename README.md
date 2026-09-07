@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Arturo Santana</h1>
+<h1 align="center">Hi, I'm Arturo Santana</h1>
 <h4 align="center">I am a freelance developer and I am also a Computer Science student at the Universidad Tecnologica Del Cibao Oriental.<a href="" target="_blank">resume</a> for more</h4>
 </div>
 
