@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Arturo Santana - Full-Stack Developer" width="100%" />
+  <img src="./assets/banner.png" alt="Abstract technology banner" width="100%" />
 </p>
 
 <h1 align="center">Arturo Santana</h1>
