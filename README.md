@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soysantana&label=Profile%20views&color=0e75b6&style=flat-square" alt="soysantana" /> </p>
 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/soysantana.svg)](https://user-badge.committers.top/dominican_republic/soysantana)
+
 <h2 align="left">About me</h2>
 
 <div align="left">
@@ -60,8 +62,6 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soysantana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soysantana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=soysantana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
