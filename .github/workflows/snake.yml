@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate metrics and contribution snake
+    name: Generate activity graph and contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate GitHub metrics
+      - name: Generate activity graph
         run: node .github/scripts/generate-profile-assets.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
