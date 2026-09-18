@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soysantana">GitHub</a>
+  <a href="https://instagram.com/soysantana2">Instagram</a>
   &bull;
   <a href="https://www.linkedin.com/in/arturo-jose-santana-garcia-6b86b7279">LinkedIn</a>
 </p>
