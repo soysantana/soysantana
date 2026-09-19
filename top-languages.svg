@@ -1,0 +1,75 @@
+<svg width="900" height="336" viewBox="0 0 900 336" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Most used languages across public repositories</desc>
+  <style>
+    .bg { fill: #ffffff; }
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .title { fill: #24292f; font: 700 24px Segoe UI, Arial, sans-serif; }
+    .subtitle { fill: #57606a; font: 500 13px Segoe UI, Arial, sans-serif; }
+    .label { fill: #57606a; font: 600 12px Segoe UI, Arial, sans-serif; letter-spacing: 0; }
+    .value { fill: #0969da; font: 700 25px Segoe UI, Arial, sans-serif; letter-spacing: 0; }
+    .text { fill: #24292f; font: 600 13px Segoe UI, Arial, sans-serif; }
+    .muted { fill: #57606a; font: 500 12px Segoe UI, Arial, sans-serif; }
+    .line { stroke: #0969da; }
+    .area { fill: #0969da; opacity: .15; }
+    .bar-bg { fill: #d8dee4; }
+    .bar { fill: #2da44e; }
+    .axis { stroke: #d8dee4; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; stroke: #30363d; }
+      .title { fill: #f0f6fc; }
+      .subtitle, .label, .muted { fill: #8b949e; }
+      .value { fill: #58a6ff; }
+      .text { fill: #f0f6fc; }
+      .line { stroke: #58a6ff; }
+      .area { fill: #58a6ff; opacity: .18; }
+      .bar-bg { fill: #30363d; }
+      .bar { fill: #3fb950; }
+      .axis { stroke: #30363d; }
+    }
+  </style>
+  <rect class="bg" width="900" height="336" rx="16" />
+  <text class="title" x="30" y="42">Most Used Languages</text>
+  <text class="subtitle" x="30" y="62">Repository usage, not a measure of skill level</text>
+  <circle cx="38" cy="73" r="5" fill="#f1e05a" />
+  <text class="text" x="52" y="78">JavaScript</text>
+  <rect class="bar-bg" x="210" y="62" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="62" width="318" height="12" rx="6" />
+  <text class="muted" x="845" y="78" text-anchor="end">51.3%</text>
+<circle cx="38" cy="104" r="5" fill="#4F5D95" />
+  <text class="text" x="52" y="109">PHP</text>
+  <rect class="bar-bg" x="210" y="93" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="93" width="99" height="12" rx="6" />
+  <text class="muted" x="845" y="109" text-anchor="end">16.0%</text>
+<circle cx="38" cy="135" r="5" fill="#c6538c" />
+  <text class="text" x="52" y="140">SCSS</text>
+  <rect class="bar-bg" x="210" y="124" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="124" width="67" height="12" rx="6" />
+  <text class="muted" x="845" y="140" text-anchor="end">10.8%</text>
+<circle cx="38" cy="166" r="5" fill="#e34c26" />
+  <text class="text" x="52" y="171">HTML</text>
+  <rect class="bar-bg" x="210" y="155" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="155" width="47" height="12" rx="6" />
+  <text class="muted" x="845" y="171" text-anchor="end">7.5%</text>
+<circle cx="38" cy="197" r="5" fill="#663399" />
+  <text class="text" x="52" y="202">CSS</text>
+  <rect class="bar-bg" x="210" y="186" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="186" width="38" height="12" rx="6" />
+  <text class="muted" x="845" y="202" text-anchor="end">6.1%</text>
+<circle cx="38" cy="228" r="5" fill="#3178c6" />
+  <text class="text" x="52" y="233">TypeScript</text>
+  <rect class="bar-bg" x="210" y="217" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="217" width="25" height="12" rx="6" />
+  <text class="muted" x="845" y="233" text-anchor="end">4.0%</text>
+<circle cx="38" cy="259" r="5" fill="#878787" />
+  <text class="text" x="52" y="264">Hack</text>
+  <rect class="bar-bg" x="210" y="248" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="248" width="22" height="12" rx="6" />
+  <text class="muted" x="845" y="264" text-anchor="end">3.6%</text>
+<circle cx="38" cy="290" r="5" fill="#3572A5" />
+  <text class="text" x="52" y="295">Python</text>
+  <rect class="bar-bg" x="210" y="279" width="620" height="12" rx="6" />
+  <rect class="bar" x="210" y="279" width="4" height="12" rx="6" />
+  <text class="muted" x="845" y="295" text-anchor="end">0.7%</text>
+</svg>
