@@ -1,145 +1,42 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Abstract technology banner" width="100%" />
-</p>
+<h2 data-importer="text" align="center">Software Engineering student at Universidad Tecnologica del Cibao Oriental (UTECO)</h2>
 
-<h1 align="center">Arturo Santana</h1>
-<h3 align="center">Full-Stack Developer</h3>
+###
 
-<p align="center">
-  <strong>Angular &bull; NestJS &bull; TypeScript &bull; Prisma &bull; PostgreSQL</strong>
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
+</div>
 
-<p align="center">
-  Building modern web applications, authentication systems, backend APIs, and software for engineering and laboratory workflows.
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/soysantana">GitHub</a>
-  &bull;
-  <a href="https://www.linkedin.com/in/arturo-jose-santana-garcia-6b86b7279">LinkedIn</a>
-</p>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/arturo-jose-santana-garcia-6b86b7279" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/soysantana2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://matrix.to/#/@soysantana:matrix.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="matrix logo"  />
+  </a>
+</div>
 
-## About Me
+###
 
-I am a full-stack developer focused on practical web applications with Angular, TypeScript, NestJS, Node.js, Prisma, and relational databases. I am especially interested in backend architecture, authentication and authorization, security-minded development, database design, and tools for engineering or laboratory environments.
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/soysantana/soysantana/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/soysantana/soysantana/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-I use GitHub as a place to build, learn in public, improve my projects, and grow through useful Pull Requests, Issues, and Code Reviews.
-
-## Tech Stack
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-**DevOps / Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Other**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-## Featured Projects
-
-**QA-LAB-APP**
-
-Quality assurance and laboratory-oriented application concept focused on structured workflows, testable interfaces, and reliable data handling.
-
-Stack: Angular, TypeScript, NestJS, Prisma, PostgreSQL.
-
-**[AutHub](https://github.com/soysantana/AutHub)**
-
-Authentication and authorization project for exploring secure backend patterns and identity flows.
-
-Stack: TypeScript, NestJS, Node.js.
-
-**PVDJ Soil Lab / Laboratory Platform**
-
-New laboratory platform idea for soil and engineering workflows, with attention to traceable records, database design, and production-ready architecture.
-
-Stack: Angular, NestJS, TypeScript, Prisma, PostgreSQL.
-
-## GitHub Analytics
-
-<p align="center">
-  <img alt="GitHub analytics generated by GitHub Actions" src="https://raw.githubusercontent.com/soysantana/soysantana/output/github-metrics.svg" width="100%" />
-</p>
-
-## Most Used Languages
-
-These language stats reflect public repository usage, not skill level.
-
-<p align="center">
-  <img alt="Most used languages generated by GitHub Actions" src="https://raw.githubusercontent.com/soysantana/soysantana/output/top-languages.svg" width="100%" />
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img alt="GitHub streak generated by GitHub Actions" src="https://raw.githubusercontent.com/soysantana/soysantana/output/github-streak.svg" width="100%" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img alt="GitHub trophies generated by GitHub Actions" src="https://raw.githubusercontent.com/soysantana/soysantana/output/github-trophies.svg" width="100%" />
-</p>
-
-## Contribution Activity Graph
-
-<p align="center">
-  <img alt="Contribution activity graph generated by GitHub Actions" src="https://raw.githubusercontent.com/soysantana/soysantana/output/activity-graph.svg" width="100%" />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soysantana/soysantana/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soysantana/soysantana/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/soysantana/soysantana/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-## Current Focus
-
-Angular, NestJS, TypeScript, backend architecture, authentication and authorization, PostgreSQL, and open source collaboration.
-
-## GitHub Goals
-
-- Make useful open source contributions.
-- Create Pull Requests that improve real projects.
-- Practice thoughtful Code Reviews.
-- Improve testing habits and coverage.
-- Build cleaner CI/CD workflows.
-- Strengthen backend architecture decisions.
-- Ship production-ready applications with maintainable foundations.
-
-## Contact
-
-- GitHub: [@soysantana](https://github.com/soysantana)
-- LinkedIn: [Arturo Jose Santana Garcia](https://www.linkedin.com/in/arturo-jose-santana-garcia-6b86b7279)
+###
