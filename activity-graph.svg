@@ -1,0 +1,42 @@
+<svg width="900" height="275" viewBox="0 0 900 275" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution Activity</title>
+  <desc id="desc">Contribution activity graph for the last 90 days</desc>
+  <style>
+    .bg { fill: #ffffff; }
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .title { fill: #24292f; font: 700 24px Segoe UI, Arial, sans-serif; }
+    .subtitle { fill: #57606a; font: 500 13px Segoe UI, Arial, sans-serif; }
+    .label { fill: #57606a; font: 600 12px Segoe UI, Arial, sans-serif; letter-spacing: 0; }
+    .value { fill: #0969da; font: 700 25px Segoe UI, Arial, sans-serif; letter-spacing: 0; }
+    .text { fill: #24292f; font: 600 13px Segoe UI, Arial, sans-serif; }
+    .muted { fill: #57606a; font: 500 12px Segoe UI, Arial, sans-serif; }
+    .line { stroke: #0969da; }
+    .area { fill: #0969da; opacity: .15; }
+    .bar-bg { fill: #d8dee4; }
+    .bar { fill: #2da44e; }
+    .axis { stroke: #d8dee4; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; stroke: #30363d; }
+      .title { fill: #f0f6fc; }
+      .subtitle, .label, .muted { fill: #8b949e; }
+      .value { fill: #58a6ff; }
+      .text { fill: #f0f6fc; }
+      .line { stroke: #58a6ff; }
+      .area { fill: #58a6ff; opacity: .18; }
+      .bar-bg { fill: #30363d; }
+      .bar { fill: #3fb950; }
+      .axis { stroke: #30363d; }
+    }
+  </style>
+  <rect class="bg" width="900" height="275" rx="16" />
+  <text class="title" x="30" y="42">Contribution Activity</text>
+  <text class="subtitle" x="30" y="62">Last 90 days of public GitHub contributions</text>
+  <line class="axis" x1="42" y1="224" x2="852" y2="224" stroke-width="1" />
+  <path class="area" d="M 42 224 L 51.1 224 L 60.2 127.18 L 69.3 224 L 78.4 224 L 87.51 224 L 96.61 224 L 105.71 224 L 114.81 224 L 123.91 224 L 133.01 224 L 142.11 224 L 151.21 224 L 160.31 224 L 169.42 224 L 178.52 224 L 187.62 224 L 196.72 224 L 205.82 211.09 L 214.92 224 L 224.02 224 L 233.12 224 L 242.22 224 L 251.33 224 L 260.43 224 L 269.53 224 L 278.63 224 L 287.73 224 L 296.83 224 L 305.93 204.64 L 315.03 224 L 324.13 224 L 333.24 224 L 342.34 224 L 351.44 217.55 L 360.54 224 L 369.64 224 L 378.74 224 L 387.84 224 L 396.94 224 L 406.04 224 L 415.15 217.55 L 424.25 224 L 433.35 224 L 442.45 224 L 451.55 224 L 460.65 224 L 469.75 224 L 478.85 224 L 487.96 224 L 497.06 224 L 506.16 224 L 515.26 224 L 524.36 224 L 533.46 224 L 542.56 217.55 L 551.66 224 L 560.76 217.55 L 569.87 224 L 578.97 224 L 588.07 224 L 597.17 224 L 606.27 211.09 L 615.37 224 L 624.47 224 L 633.57 224 L 642.67 178.82 L 651.78 224 L 660.88 127.18 L 669.98 159.45 L 679.08 172.36 L 688.18 217.55 L 697.28 146.55 L 706.38 198.18 L 715.48 211.09 L 724.58 178.82 L 733.69 178.82 L 742.79 198.18 L 751.89 204.64 L 760.99 224 L 770.09 217.55 L 779.19 224 L 788.29 82 L 797.39 224 L 806.49 146.55 L 815.6 198.18 L 824.7 204.64 L 833.8 224 L 842.9 224 L 852 224 L 852 224 L 42 224 Z" />
+  <path class="line" d="M 42 224 L 51.1 224 L 60.2 127.18 L 69.3 224 L 78.4 224 L 87.51 224 L 96.61 224 L 105.71 224 L 114.81 224 L 123.91 224 L 133.01 224 L 142.11 224 L 151.21 224 L 160.31 224 L 169.42 224 L 178.52 224 L 187.62 224 L 196.72 224 L 205.82 211.09 L 214.92 224 L 224.02 224 L 233.12 224 L 242.22 224 L 251.33 224 L 260.43 224 L 269.53 224 L 278.63 224 L 287.73 224 L 296.83 224 L 305.93 204.64 L 315.03 224 L 324.13 224 L 333.24 224 L 342.34 224 L 351.44 217.55 L 360.54 224 L 369.64 224 L 378.74 224 L 387.84 224 L 396.94 224 L 406.04 224 L 415.15 217.55 L 424.25 224 L 433.35 224 L 442.45 224 L 451.55 224 L 460.65 224 L 469.75 224 L 478.85 224 L 487.96 224 L 497.06 224 L 506.16 224 L 515.26 224 L 524.36 224 L 533.46 224 L 542.56 217.55 L 551.66 224 L 560.76 217.55 L 569.87 224 L 578.97 224 L 588.07 224 L 597.17 224 L 606.27 211.09 L 615.37 224 L 624.47 224 L 633.57 224 L 642.67 178.82 L 651.78 224 L 660.88 127.18 L 669.98 159.45 L 679.08 172.36 L 688.18 217.55 L 697.28 146.55 L 706.38 198.18 L 715.48 211.09 L 724.58 178.82 L 733.69 178.82 L 742.79 198.18 L 751.89 204.64 L 760.99 224 L 770.09 217.55 L 779.19 224 L 788.29 82 L 797.39 224 L 806.49 146.55 L 815.6 198.18 L 824.7 204.64 L 833.8 224 L 842.9 224 L 852 224" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text class="muted" x="42" y="246" text-anchor="middle">06-24</text>
+<text class="muted" x="315.03370786516854" y="246" text-anchor="middle">07-24</text>
+<text class="muted" x="588.0674157303371" y="246" text-anchor="middle">08-23</text>
+<text class="muted" x="852" y="246" text-anchor="middle">09-21</text>
+</svg>
