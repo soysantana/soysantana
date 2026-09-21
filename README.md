@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Software Engineering student at Universidad Tecnologica del Cibao Oriental (UTECO)</h2>
+<h2 data-importer="text" align="center">Hi I'm Arturo Santana student at Universidad Tecnologica del Cibao Oriental (UTECO)</h2>
 
 ###
 
